@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @narayanReddy026
-- 👀 I’m interested in Developing Websites
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in computers
+- 🌱 I’m currently learning SAP BTP
 - 💞️ I’m looking to collaborate on any development project
 - 📫 How to reach me baddam.narayan04@gmail.com
 - 😄 Pronouns: He/Him
